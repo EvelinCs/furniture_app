@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">furniture_app</string>
+    <string name="password">Jelszó</string>
+    <string name="email">Email cím</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="cancel">Mégsem</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Lakcím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="product_description">Termék leírása.</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="setting">Beállítás</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="add_to_cart">Kosárba</string>
+    <string name="delete_item">Elem törlése</string>
+    <string name="calculate_price">Végösszeg számítása</string>
+    <string name="full_price_text">Teljes ár: 0 Ft</string>
+
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Asztal</item>
+        <item>Szék</item>
+        <item>Polc</item>
+        <item>Ágy</item>
+        <item>Íróasztal</item>
+        <item>Fotel</item>
+        <item>Kanapé</item>
+        <item>Ruhásszekrény</item>
+        <item>Konyhaszekrény</item>
+        <item>Hintaszék</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Tölgy színű, 6 személyes asztal</item>
+        <item>Dió színű szék</item>
+        <item>Tölgy színű lépcsős polc</item>
+        <item>Kétszemélyes, szürke színű, puha ágy</item>
+        <item>Retro íróasztal</item>
+        <item>Bársony szövetes, szürke fotel</item>
+        <item>Bársony szövetes, szürke kanapé</item>
+        <item>Homokszínű tölgy ruhásszekrény</item>
+        <item>Munkalapos konyhaszekrény</item>
+        <item>Bársony szövetes, szürke hintaszék</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>4.5</item>
+        <item>2.5</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/asztal</item>
+        <item>@drawable/szek</item>
+        <item>@drawable/polc</item>
+        <item>@drawable/agy</item>
+        <item>@drawable/desk</item>
+        <item>@drawable/fotel</item>
+        <item>@drawable/kanape</item>
+        <item>@drawable/ruhasszekreny</item>
+        <item>@drawable/konyhaszekreny</item>
+        <item>@drawable/hintaszek</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>70 000 Ft</item>
+        <item>20 000 Ft</item>
+        <item>30 000 Ft</item>
+        <item>150 000 Ft</item>
+        <item>90 000 Ft</item>
+        <item>140 000 Ft</item>
+        <item>300 000 Ft</item>
+        <item>200 000 Ft</item>
+        <item>250 000 Ft</item>
+        <item>100 000 Ft</item>
+    </array>
+</resources>
